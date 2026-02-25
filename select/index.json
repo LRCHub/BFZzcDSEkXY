@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "目安箱",
+  "base_artist": "MC MOGURA",
+  "createdAt": "2026-02-25T08:12:38.797360Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "目安箱 (feat. ふぁんく & DOTAMA)",
+      "artist": "MC MOGURA",
+      "has_synced": false,
+      "path": "select/pl_01_目安箱_(feat._ふぁんく_&_DOTAMA)_MC_MOGURA.txt"
+    }
+  ]
+}
